@@ -1,6 +1,6 @@
 
 # File size is too large
-## heartattack.zip folder is added
+## heartattack.zip folder is uploaded.
   ### click 'View raw' in heartattack.zip folder to download the zip folder
 ## zip folder has 3 files as:
   ### heart_2022_with_nans.csv : It is the dataset used for the data analysis.
