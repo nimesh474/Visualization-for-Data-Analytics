@@ -6,6 +6,7 @@
   ### heart_2022_with_nans.csv : It is the dataset used for the data analysis.
   ### df1.csv : It is the final dataset saved after preprocessing.
   ### Heart_Attack_Data_Analysis.ipynb: It is the Jupyter Notebook code file.
+  # Code file has preprocessing codes, 12 visualizations with seaborn and matplotlib, and PySpark data preprocessing codes.
 # PySpark Data Pre-Processing
   ## install PySpark 
   ### !pip install pyspark
