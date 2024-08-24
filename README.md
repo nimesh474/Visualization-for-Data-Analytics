@@ -9,7 +9,7 @@
 # PySpark Data Pre-Processing
   ## install PySpark 
   ### !pip install pyspark
-  ### General data pre-processing is done with handling missing values
+  ### General data pre-processing is done while handling missing values
   
 # Kaggle Link
 ### https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
